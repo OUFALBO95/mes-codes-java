@@ -12,7 +12,7 @@ package mes.codes.java;
 public class booleen {
       public static void main(String[]args)
       {
-                int x=4, y=8, z=3, t=7, calcul=0;
+                int x=5, y=9, z=4, t=8, calcul=0;
                 boolean booll;
                 booll = x<y;
                 System.out.println("x<y ="+booll);
